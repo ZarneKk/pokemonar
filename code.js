@@ -68,7 +68,7 @@
     },
     appeared: {
       en: "✨ Wild {n} appeared!",
-      zh_tw: "✨ 狂野的 {名} 出現了！",
+      zh_tw: "✨ 野生的 {名} 出現了！",
       zh_cn: "✨ 野生的 {n} 出现了！",
     },
     loading_name: {
@@ -78,15 +78,15 @@
     },
     model_failed: {
       en: "❌ Model failed to load",
-      zh_tw: "",
-      zh_cn: "",
+      zh_tw: "加载失败",
+      zh_cn: "加载失败",
     },
-    spin_on: { en: "Spin ON", zh_tw: "旋轉 在", zh_cn: "旋转 开" },
+    spin_on: { en: "Spin ON", zh_tw: "旋轉 开", zh_cn: "旋转 开" },
     spin_off: { en: "Spin OFF", zh_tw: "旋轉 關", zh_cn: "旋转 关" },
     loading_title: {
       en: "Loading Pokémon AR…",
-      zh_tw: "正在載入 口袋妖怪 AR…",
-      zh_cn: "正在加载 口袋妖怪 AR…",
+      zh_tw: "正在載入 精灵宝可梦 AR…",
+      zh_cn: "正在加载 精灵宝可梦 AR…",
     },
     requesting_camera: {
       en: "Requesting camera…",
@@ -105,13 +105,13 @@
     },
     loading_3d: {
       en: "Loading 3D models…",
-      zh_tw: "",
-      zh_cn: "",
+      zh_tw: "加载3D模型中",
+      zh_cn: "加载3D模型中",
     },
     ready: {
       en: "Ready! Point camera at Hiro marker 📷",
-      zh_tw: "",
-      zh_cn: "",
+      zh_tw: "准备就绪！",
+      zh_cn: "准备就绪",
     },
     drag_hint: {
       en: "👆 Drag to rotate model",
